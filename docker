@@ -1,0 +1,1 @@
+docker run -e BACKEND_IP=52.91.175.180 -p 3001:3001 bryansilva117/naum-front:barbearia-tm
